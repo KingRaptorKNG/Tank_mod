@@ -1,0 +1,56 @@
+{
+  "soviet_anthem": {
+    "subtitle": "subtitles.soviet_anthem",
+    "sounds": [
+      {
+        "name": "tankmod223:593_urss-anthem_musicboxmaniacs.com",
+        "stream": true
+      }
+    ]
+  },
+  "driving_away": {
+    "subtitle": "subtitles.driving_away",
+    "sounds": [
+      {
+        "name": "tankmod223:15782_1460487610_1",
+        "stream": false
+      }
+    ]
+  },
+  "tracks_away": {
+    "subtitle": "subtitles.tracks_away",
+    "sounds": [
+      {
+        "name": "tankmod223:15782_1460487610_2",
+        "stream": false
+      }
+    ]
+  },
+  "itscoming": {
+    "subtitle": "subtitles.itscoming",
+    "sounds": [
+      {
+        "name": "tankmod223:79bcf38174b301c",
+        "stream": false
+      }
+    ]
+  },
+  "happen1": {
+    "subtitle": "subtitles.happen1",
+    "sounds": [
+      {
+        "name": "tankmod223:ed3431b44ef2a78",
+        "stream": false
+      }
+    ]
+  },
+  "happen2": {
+    "subtitle": "subtitles.happen2",
+    "sounds": [
+      {
+        "name": "tankmod223:d024491c923b299",
+        "stream": false
+      }
+    ]
+  }
+}

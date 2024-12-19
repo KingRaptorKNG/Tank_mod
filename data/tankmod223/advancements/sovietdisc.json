@@ -1,0 +1,47 @@
+{
+  "display": {
+    "icon": {
+      "item": "tankmod223:thefavourite"
+    },
+    "title": {
+      "translate": "advancements.sovietdisc.title"
+    },
+    "description": {
+      "translate": "advancements.sovietdisc.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "sovietdisc_0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "tankmod223:thefavourite"
+            ],
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    },
+    "sovietdisc_1": {
+      "trigger": "minecraft:placed_block",
+      "conditions": {
+        "location": [
+          {
+            "condition": "minecraft:block_state_property",
+            "block": "minecraft:jukebox"
+          }
+        ]
+      }
+    }
+  },
+  "parent": "tankmod223:welcome"
+}

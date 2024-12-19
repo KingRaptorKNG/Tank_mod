@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:ender_eye"
+    },
+    "title": {
+      "translate": "advancements.look.title"
+    },
+    "description": {
+      "translate": "advancements.look.descr"
+    },
+    "frame": "goal",
+    "show_toast": false,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "look_0": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "tankmod223:run"
+}
