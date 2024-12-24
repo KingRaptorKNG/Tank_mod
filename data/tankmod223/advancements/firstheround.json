@@ -1,23 +1,23 @@
 {
   "display": {
-    "background": "minecraft:textures/block/stone.png",
     "icon": {
-      "item": "minecraft:redstone"
+      "item": "minecraft:tnt"
     },
     "title": {
-      "translate": "advancements.welcome.title"
+      "translate": "advancements.firstheround.title"
     },
     "description": {
-      "translate": "advancements.welcome.descr"
+      "translate": "advancements.firstheround.descr"
     },
-    "frame": "goal",
+    "frame": "task",
     "show_toast": false,
     "announce_to_chat": true,
     "hidden": false
   },
   "criteria": {
-    "welcome_0": {
+    "firstheround_0": {
       "trigger": "minecraft:impossible"
     }
-  }
+  },
+  "parent": "tankmod223:welcome"
 }

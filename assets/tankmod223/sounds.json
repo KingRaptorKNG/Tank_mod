@@ -52,5 +52,30 @@
         "stream": false
       }
     ]
+  },
+  "projectile_incoming": {
+    "subtitle": "subtitles.projectile_incoming",
+    "sounds": [
+      {
+        "name": "tankmod223:7aafedb1699dfaf",
+        "stream": false
+      }
+    ]
+  },
+  "shooting1": {
+    "sounds": [
+      {
+        "name": "tankmod223:75433d18dff17c3",
+        "stream": false
+      }
+    ]
+  },
+  "shooting2": {
+    "sounds": [
+      {
+        "name": "tankmod223:b3b67c9b8ef1b9c",
+        "stream": false
+      }
+    ]
   }
 }
