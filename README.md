@@ -7,3 +7,4 @@ Survival experience for 10 in-game days is very recommended!
 !!! Version 1.20.1 !!!
 
 
+![2025-01-08_02 03 28](https://github.com/user-attachments/assets/7a437db1-256d-43ef-8807-cac043d5e5d3)
