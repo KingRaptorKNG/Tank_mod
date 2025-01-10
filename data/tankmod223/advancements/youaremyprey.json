@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:beef"
+    },
+    "title": {
+      "translate": "advancements.youaremyprey.title"
+    },
+    "description": {
+      "translate": "advancements.youaremyprey.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "youaremyprey_0": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "tankmod223:sovietdisc"
+}

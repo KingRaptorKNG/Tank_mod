@@ -77,5 +77,41 @@
         "stream": false
       }
     ]
+  },
+  "hit1": {
+    "subtitle": "subtitles.hit1",
+    "sounds": [
+      {
+        "name": "tankmod223:hit1",
+        "stream": false
+      }
+    ]
+  },
+  "hit2": {
+    "subtitle": "subtitles.hit2",
+    "sounds": [
+      {
+        "name": "tankmod223:hit2",
+        "stream": false
+      }
+    ]
+  },
+  "hit3": {
+    "subtitle": "subtitles.hit3",
+    "sounds": [
+      {
+        "name": "tankmod223:hit3",
+        "stream": false
+      }
+    ]
+  },
+  "hit4": {
+    "subtitle": "subtitles.hit4",
+    "sounds": [
+      {
+        "name": "tankmod223:hit4",
+        "stream": false
+      }
+    ]
   }
 }
