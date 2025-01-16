@@ -1,20 +1,4 @@
 {
   "type": "minecraft:block",
-  "random_sequence": "tankmod223:blocks/oilore",
-  "pools": [
-    {
-      "rolls": 1.0,
-      "conditions": [
-        {
-          "condition": "minecraft:survives_explosion"
-        }
-      ],
-      "entries": [
-        {
-          "type": "minecraft:item",
-          "name": "tankmod223:oilore"
-        }
-      ]
-    }
-  ]
+  "random_sequence": "tankmod223:blocks/oilore"
 }
