@@ -1,0 +1,36 @@
+{
+  "display": {
+    "icon": {
+      "item": "tankmod223:rawoil_bucket"
+    },
+    "title": {
+      "translate": "advancements.theburiedtreasure.title"
+    },
+    "description": {
+      "translate": "advancements.theburiedtreasure.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "theburiedtreasure_0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "tankmod223:rawoil_bucket"
+            ],
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "parent": "tankmod223:welcome"
+}

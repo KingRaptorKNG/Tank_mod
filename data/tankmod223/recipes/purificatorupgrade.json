@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "bcb",
+    "ded"
+  ],
+  "key": {
+    "a": {
+      "item": "tankmod223:soulshard"
+    },
+    "b": {
+      "item": "minecraft:amethyst_shard"
+    },
+    "c": {
+      "item": "tankmod223:purificator"
+    },
+    "d": {
+      "item": "minecraft:glowstone_dust"
+    },
+    "e": {
+      "item": "tankmod223:oilbottle"
+    }
+  },
+  "result": {
+    "item": "tankmod223:advancedpurificator",
+    "count": 1
+  }
+}
