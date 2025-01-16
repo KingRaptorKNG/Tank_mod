@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "tankmod223:block/oilore",
+    "up": "tankmod223:block/oilore",
+    "north": "tankmod223:block/oilore",
+    "east": "tankmod223:block/oilore",
+    "south": "tankmod223:block/oilore",
+    "west": "tankmod223:block/oilore",
+    "particle": "tankmod223:block/oilore"
+  },
+  "render_type": "cutout_mipped"
+}
