@@ -12,3 +12,6 @@ This mod is still in beta, bugs may occur, and crashes, if you encountered one o
 Made by _kng
 All models and textures are made _kng
 This is my first mod ;)
+
+
+Related video - https://youtu.be/h79UnQDxEDw
