@@ -1,0 +1,9 @@
+{
+  "parent": "tankmod223:custom/unlitroch2",
+  "textures": {
+    "all": "tankmod223:block/torchunlitfloor",
+    "particle": "tankmod223:block/torchunlitfloor",
+    "0": "tankmod223:block/torchunlitfloor"
+  },
+  "render_type": "solid"
+}

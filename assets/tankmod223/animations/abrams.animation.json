@@ -1,0 +1,86 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.Abrams.idle": {
+			"animation_length": 0.8333
+		},
+		"animation.Abrams.drive": {
+			"loop": true,
+			"animation_length": 0.9583,
+			"bones": {
+				"wheel10": {
+					"rotation": {
+						"0.0": {
+							"vector": [0, 0, 0]
+						},
+						"0.9583": {
+							"vector": [152.5, 0, 0],
+							"easing": "linear"
+						}
+					}
+				},
+				"wheel11": {
+					"rotation": {
+						"0.0": {
+							"vector": [0, 0, 0]
+						},
+						"0.9583": {
+							"vector": [167.5, 0, 0]
+						}
+					}
+				},
+				"wheel12": {
+					"rotation": {
+						"0.0": {
+							"vector": [0, 0, 0]
+						},
+						"0.9583": {
+							"vector": [162.5, 0, 0]
+						}
+					}
+				},
+				"wheel14": {
+					"rotation": {
+						"0.0": {
+							"vector": [0, 0, 0]
+						},
+						"0.9583": {
+							"vector": [147.5, 0, 0]
+						}
+					}
+				},
+				"wheel15": {
+					"rotation": {
+						"0.0": {
+							"vector": [0, 0, 0]
+						},
+						"0.9583": {
+							"vector": [147.5, 0, 0]
+						}
+					}
+				},
+				"wheel16": {
+					"rotation": {
+						"0.0": {
+							"vector": [0, 0, 0]
+						},
+						"0.9583": {
+							"vector": [142.5, 0, 0]
+						}
+					}
+				},
+				"wheel18": {
+					"rotation": {
+						"0.0": {
+							"vector": [0, 0, 0]
+						},
+						"0.9583": {
+							"vector": [152.5, 0, 0]
+						}
+					}
+				}
+			}
+		}
+	},
+	"geckolib_format_version": 2
+}

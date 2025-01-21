@@ -1,0 +1,36 @@
+{
+  "display": {
+    "icon": {
+      "item": "tankmod223:oilbottle"
+    },
+    "title": {
+      "translate": "advancements.cleanoil.title"
+    },
+    "description": {
+      "translate": "advancements.cleanoil.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "cleanoil_0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "tankmod223:oilbottle"
+            ],
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "parent": "tankmod223:sovietdisc"
+}

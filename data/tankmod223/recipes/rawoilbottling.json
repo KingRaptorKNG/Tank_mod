@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "tankmod223:quadro_bottle"
+    },
+    {
+      "item": "tankmod223:rawoil_bucket"
+    },
+    {
+      "item": "tankmod223:quadro_bottle"
+    },
+    {
+      "item": "tankmod223:quadro_bottle"
+    }
+  ],
+  "result": {
+    "item": "tankmod223:rawoilbottle",
+    "count": 3
+  }
+}

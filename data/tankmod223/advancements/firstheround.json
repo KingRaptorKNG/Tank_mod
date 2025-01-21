@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:tnt"
+    },
+    "title": {
+      "translate": "advancements.firstheround.title"
+    },
+    "description": {
+      "translate": "advancements.firstheround.descr"
+    },
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "firstheround_0": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "tankmod223:welcome"
+}

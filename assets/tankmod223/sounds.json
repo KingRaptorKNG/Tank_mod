@@ -1,0 +1,178 @@
+{
+  "soviet_anthem": {
+    "subtitle": "subtitles.soviet_anthem",
+    "sounds": [
+      {
+        "name": "tankmod223:593_urss-anthem_musicboxmaniacs.com",
+        "stream": true
+      }
+    ]
+  },
+  "driving_away": {
+    "subtitle": "subtitles.driving_away",
+    "sounds": [
+      {
+        "name": "tankmod223:15782_1460487610_1",
+        "stream": false
+      }
+    ]
+  },
+  "tracks_away": {
+    "subtitle": "subtitles.tracks_away",
+    "sounds": [
+      {
+        "name": "tankmod223:15782_1460487610_2",
+        "stream": false
+      }
+    ]
+  },
+  "itscoming": {
+    "subtitle": "subtitles.itscoming",
+    "sounds": [
+      {
+        "name": "tankmod223:79bcf38174b301c",
+        "stream": false
+      }
+    ]
+  },
+  "happen1": {
+    "subtitle": "subtitles.happen1",
+    "sounds": [
+      {
+        "name": "tankmod223:ed3431b44ef2a78",
+        "stream": false
+      }
+    ]
+  },
+  "happen2": {
+    "subtitle": "subtitles.happen2",
+    "sounds": [
+      {
+        "name": "tankmod223:d024491c923b299",
+        "stream": false
+      }
+    ]
+  },
+  "projectile_incoming": {
+    "subtitle": "subtitles.projectile_incoming",
+    "sounds": [
+      {
+        "name": "tankmod223:7aafedb1699dfaf",
+        "stream": false
+      }
+    ]
+  },
+  "shooting1": {
+    "sounds": [
+      {
+        "name": "tankmod223:75433d18dff17c3",
+        "stream": false
+      }
+    ]
+  },
+  "shooting2": {
+    "sounds": [
+      {
+        "name": "tankmod223:b3b67c9b8ef1b9c",
+        "stream": false
+      }
+    ]
+  },
+  "hit1": {
+    "subtitle": "subtitles.hit1",
+    "sounds": [
+      {
+        "name": "tankmod223:hit1",
+        "stream": false
+      }
+    ]
+  },
+  "hit2": {
+    "subtitle": "subtitles.hit2",
+    "sounds": [
+      {
+        "name": "tankmod223:hit2",
+        "stream": false
+      }
+    ]
+  },
+  "hit3": {
+    "subtitle": "subtitles.hit3",
+    "sounds": [
+      {
+        "name": "tankmod223:hit3",
+        "stream": false
+      }
+    ]
+  },
+  "hit4": {
+    "subtitle": "subtitles.hit4",
+    "sounds": [
+      {
+        "name": "tankmod223:hit4",
+        "stream": false
+      }
+    ]
+  },
+  "jumpscarestatic": {
+    "sounds": [
+      {
+        "name": "tankmod223:jumpscarestatic",
+        "stream": false
+      }
+    ]
+  },
+  "shermansoundshot": {
+    "subtitle": "subtitles.shermansoundshot",
+    "sounds": [
+      {
+        "name": "tankmod223:shermanshot",
+        "stream": false
+      }
+    ]
+  },
+  "shooting": {
+    "subtitle": "subtitles.shooting",
+    "sounds": [
+      {
+        "name": "tankmod223:shootingafar",
+        "stream": false
+      }
+    ]
+  },
+  "gepardmain": {
+    "sounds": [
+      {
+        "name": "tankmod223:gepardmain",
+        "stream": false
+      }
+    ]
+  },
+  "l3dead": {
+    "subtitle": "subtitles.l3dead",
+    "sounds": [
+      {
+        "name": "tankmod223:l3deadnooo",
+        "stream": false
+      }
+    ]
+  },
+  "l3fire": {
+    "subtitle": "subtitles.l3fire",
+    "sounds": [
+      {
+        "name": "tankmod223:1b01f060dc900f4",
+        "stream": false
+      }
+    ]
+  },
+  "kv2boomboom": {
+    "subtitle": "subtitles.kv2boomboom",
+    "sounds": [
+      {
+        "name": "tankmod223:f4ee46bb060c102",
+        "stream": false
+      }
+    ]
+  }
+}

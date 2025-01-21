@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:saddle"
+    },
+    "title": {
+      "translate": "advancements.noway.title"
+    },
+    "description": {
+      "translate": "advancements.noway.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "noway_0": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "tankmod223:welcome"
+}

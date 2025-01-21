@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "tankmod223:block/redstonetorchwallex"
+    },
+    "facing=east": {
+      "model": "tankmod223:block/redstonetorchwallex",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "tankmod223:block/redstonetorchwallex",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "tankmod223:block/redstonetorchwallex",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "tankmod223:block/redstonetorchwallex",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "tankmod223:block/redstonetorchwallex",
+      "x": 90
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "tankmod223:block/torchextuignshedwall"
+    },
+    "facing=east": {
+      "model": "tankmod223:block/torchextuignshedwall",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "tankmod223:block/torchextuignshedwall",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "tankmod223:block/torchextuignshedwall",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "tankmod223:block/torchextuignshedwall",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "tankmod223:block/torchextuignshedwall",
+      "x": 90
+    }
+  }
+}
