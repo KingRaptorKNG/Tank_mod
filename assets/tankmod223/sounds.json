@@ -174,5 +174,48 @@
         "stream": false
       }
     ]
+  },
+  "aggresivenightambience": {
+    "sounds": [
+      {
+        "name": "tankmod223:aggresivenightambience",
+        "stream": false
+      }
+    ]
+  },
+  "ritualhappen": {
+    "subtitle": "subtitles.ritualhappen",
+    "sounds": [
+      {
+        "name": "tankmod223:somethingishappening",
+        "stream": false
+      }
+    ]
+  },
+  "randomeventthing": {
+    "subtitle": "subtitles.randomeventthing",
+    "sounds": [
+      {
+        "name": "tankmod223:randomeventthing",
+        "stream": false
+      }
+    ]
+  },
+  "randomsound": {
+    "sounds": [
+      {
+        "name": "tankmod223:randomsound",
+        "stream": false
+      }
+    ]
+  },
+  "itschasingyou": {
+    "subtitle": "subtitles.itschasingyou",
+    "sounds": [
+      {
+        "name": "tankmod223:itschasingyou",
+        "stream": false
+      }
+    ]
   }
 }

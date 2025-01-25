@@ -11,7 +11,7 @@
       "item": "minecraft:glass"
     },
     "b": {
-      "item": "minecraft:oak_button"
+      "tag": "minecraft:planks"
     },
     "c": {
       "item": "minecraft:iron_ingot"

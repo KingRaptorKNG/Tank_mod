@@ -1,12 +1,13 @@
 modLoader="javafml"
 loaderVersion="[47,)"
-license="Not specified"
+license="All Rights Reserved"
 
 [[mods]]
 modId="tankmod223"
-version="5.0.1"
+version="6.0.0"
 displayName="Tank mod"
-displayURL="https://mcreator.net"
+displayURL="https://legacy.curseforge.com/minecraft/mc-mods/tank-mod"
+logoFile="logo.png"
 credits="Created using mod maker MCreator - https://mcreator.net/about"
 authors="King Raptor (__kng)"
 description="Just a tank mod. Nothing suspicious."

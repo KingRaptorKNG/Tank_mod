@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "abc",
+    "cdc",
+    "acb"
+  ],
+  "key": {
+    "a": {
+      "item": "tankmod223:soulshard"
+    },
+    "b": {
+      "item": "minecraft:yellow_dye"
+    },
+    "c": {
+      "item": "minecraft:red_dye"
+    },
+    "d": {
+      "item": "tankmod223:purificator"
+    }
+  },
+  "result": {
+    "item": "tankmod223:thefavourite",
+    "count": 1
+  }
+}
