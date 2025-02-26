@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " ab",
+    "bca",
+    "bb "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:wheat"
+    },
+    "b": {
+      "item": "minecraft:sugar"
+    },
+    "c": {
+      "item": "tankmod223:oilbottle"
+    }
+  },
+  "result": {
+    "item": "tankmod223:oilcookie",
+    "count": 2
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "tankmod223:displaysettings/ritual",
+  "textures": {
+    "particle": "tankmod223:block/ritual"
+  }
+}

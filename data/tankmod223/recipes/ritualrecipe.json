@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "bab",
+    "bcb"
+  ],
+  "key": {
+    "a": {
+      "item": "tankmod223:soulshard"
+    },
+    "b": {
+      "item": "tankmod223:agravatedsoul"
+    },
+    "c": {
+      "item": "minecraft:stone_slab"
+    }
+  },
+  "result": {
+    "item": "tankmod223:ritualempty",
+    "count": 1
+  }
+}

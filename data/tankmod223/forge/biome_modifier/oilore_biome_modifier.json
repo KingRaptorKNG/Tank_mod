@@ -1,6 +1,11 @@
 {
   "type": "forge:add_features",
-  "biomes": "#minecraft:is_overworld",
+  "biomes": [
+    "desert",
+    "badlands",
+    "swamp",
+    "mangrove_swamp"
+  ],
   "features": "tankmod223:oilore",
   "step": "underground_ores"
 }

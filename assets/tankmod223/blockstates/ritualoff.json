@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "tankmod223:custom/ritualoff_particle"
+    },
+    "facing=east": {
+      "model": "tankmod223:custom/ritualoff_particle",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "tankmod223:custom/ritualoff_particle",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "tankmod223:custom/ritualoff_particle",
+      "y": 270
+    }
+  }
+}

@@ -217,5 +217,46 @@
         "stream": false
       }
     ]
+  },
+  "soulsound": {
+    "subtitle": "subtitles.soulsound",
+    "sounds": [
+      {
+        "name": "tankmod223:soulsand",
+        "stream": false
+      }
+    ]
+  },
+  "cutsceneboom": {
+    "sounds": [
+      {
+        "name": "tankmod223:cutsceneboom",
+        "stream": false
+      }
+    ]
+  },
+  "cutsceneambience": {
+    "sounds": [
+      {
+        "name": "tankmod223:cutsceneambient",
+        "stream": false
+      }
+    ]
+  },
+  "settingfree": {
+    "sounds": [
+      {
+        "name": "tankmod223:soulisgettingfree",
+        "stream": false
+      }
+    ]
+  },
+  "soundoffreedom": {
+    "sounds": [
+      {
+        "name": "tankmod223:soulsound_1",
+        "stream": false
+      }
+    ]
   }
 }

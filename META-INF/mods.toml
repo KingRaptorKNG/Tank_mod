@@ -4,11 +4,11 @@ license="All Rights Reserved"
 
 [[mods]]
 modId="tankmod223"
-version="6.0.0"
+version="6.1.0"
 displayName="Tank mod"
 displayURL="https://legacy.curseforge.com/minecraft/mc-mods/tank-mod"
 logoFile="logo.png"
-credits="Created using mod maker MCreator - https://mcreator.net/about"
+credits="Created using mod maker MCreator - https://mcreator.net/about ; All sounds were downloaded from https://zvukipro.com/ ' All models/textures are made by __kng"
 authors="King Raptor (__kng)"
 description="Just a tank mod. Nothing suspicious."
 
